@@ -20,7 +20,7 @@ src:
     - users.js
  - middlewares:
   - auth.js
- - seeds: (NOTA**: TODAS LAS SEMILLAS ESTÁN SUBIDAS A MONGODB, luego he añadido a traves de insomnia una juego, una consola/plataforma y un nuevo usuario)
+ - seeds: (NOTA**: aunque pedian que solo se subiera UNA. Al final he optador por subir TODAS LAS SEMILLAS A MONGODB, luego he añadido a traves de insomnia una juego/game, una consola/plataforma y un nuevo usuario)
     - console.seed.js 
     - game.seed.js.js
     - user.seed.js
